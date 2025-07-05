@@ -52,8 +52,3 @@ $env:SourcePath="C:\Path\To\AssignmentSolutions"
 # Run the script
 python assignment2_version_update.py
 ```
-
-### What It Does:
-- Updates `point=456` in `SConstruct`
-- Updates `ADLMSDK_VERSION_POINT= 456` in `VERSION`
-- Prints a confirmation message after updating
